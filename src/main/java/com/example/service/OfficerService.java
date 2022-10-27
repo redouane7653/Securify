@@ -13,12 +13,12 @@ import com.example.persistance.repository.OfficerRepository;
 import com.example.persistance.domain.Officer;
 import com.example.rest.dto.OfficerDTO;
 
-//import lombok.AllArgsConstructor;
-//import lombok.Data;
+import lombok.AllArgsConstructor;
+import lombok.Data;
 
-//@Service
-//@AllArgsConstructor
-//@Data
+@Service
+@AllArgsConstructor
+@Data
 
 public class OfficerService {
 	@Autowired

@@ -14,10 +14,10 @@ import com.example.persistance.domain.Client;
 import com.example.persistance.repository.ClientRepository;
 import com.example.rest.dto.ClientDTO;
 
-//import lombok.AllArgsConstructor;
+import lombok.AllArgsConstructor;
 
 @Service
-//@AllArgsConstructor
+@AllArgsConstructor
 public class ClientService {
 	@Autowired
 	private ClientRepository repo;

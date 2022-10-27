@@ -1,5 +1,5 @@
 package com.example.rest.controller;
-//import lombok.AllArgsConstructor;
+import lombok.AllArgsConstructor;
 
 import java.util.List;
 
@@ -21,7 +21,7 @@ import com.example.service.ClientService;
 
 
 @RestController
-//@AllArgsConstructor
+@AllArgsConstructor
 public class ClientController {
 	@Autowired
 	private ClientService service;

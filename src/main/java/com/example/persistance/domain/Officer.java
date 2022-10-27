@@ -20,6 +20,7 @@ public class Officer {
 	@Size(min = 0, max = 55)
 	private String lastName;
 	@NotNull
+	@Size(min = 0, max = 55)
 	private String dateOfBirth;
 	@NotNull
 	private String email;
@@ -30,7 +31,6 @@ public class Officer {
 	@NotNull
 	private String adress;
 	@NotNull
-	@Size(min = 15, max = 15)
 	private Long siaBadgeNumber;
 	@NotNull
 	private String weeklyAvailability;
@@ -38,6 +38,8 @@ public class Officer {
 	private String availabilityTime;
 	
 	@ManyToOne
+	private Client client;
+	
 	public Long getIdOfficer() {
 		return idOfficer;
 	}

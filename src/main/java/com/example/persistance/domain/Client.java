@@ -33,8 +33,10 @@ public class Client {
 	@Size(min = 0, max = 55)
 	private String lastName;
 	@NotNull
+	@Size(min = 0, max = 55)
 	private String dateOfBrith;
 	@NotNull
+	@Size(min = 0, max = 55)
 	private String email;
 	@NotNull
 	private Long phoneNumber;

@@ -18,10 +18,10 @@ import com.example.persistance.domain.Officer;
 import com.example.rest.dto.OfficerDTO;
 import com.example.service.OfficerService;
 
-//import lombok.AllArgsConstructor;
+import lombok.AllArgsConstructor;
 
 @RestController
-//@AllArgsConstructor
+@AllArgsConstructor
 public class OfficerController {
 	
 	@Autowired
