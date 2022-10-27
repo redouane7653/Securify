@@ -37,12 +37,12 @@ public class ClientController {
 		return service.getAllClients();
 	}
 	
-	@PutMapping("/updateClient/{id}")
+	@PutMapping("/updateClient/{idClient}")
 	public ClientDTO updateClient(@PathVariable Long idClient, @RequestBody Client client) {
 		return service.updateClient(idClient, client);
 	}
 	
-	@DeleteMapping("/deleteClient/{id}")
+	@DeleteMapping("/deleteClient/{idClient}")
 	public boolean deleteClient(@PathVariable Long idClient) {
 		return service.deleteClient(idClient);
 	}

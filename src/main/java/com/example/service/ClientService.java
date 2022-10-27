@@ -41,6 +41,12 @@ public class ClientService {
 		
 		Client existing = tempClient.get();
 		existing.setName(client.getName());
+		//added
+		existing.setLastName(client.getLastName());
+		existing.setDateOfBrith(client.getDateOfBrith());
+		existing.setEmail(client.getEmail());
+
+		//added
 		existing.setOfficers(client.getOfficers());
 		
 		Client updated = this.repo.save(existing);
