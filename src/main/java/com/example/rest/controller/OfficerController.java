@@ -42,7 +42,7 @@ public class OfficerController {
 		return service.updateOfficer(idOfficer, officer);
 	}
 	
-	@DeleteMapping("/deleteOfficer/{id}")
+	@DeleteMapping("/deleteOfficer/{idOfficer}")
 	public boolean deleteOfficer(@PathVariable Long idOfficer) {
 		return service.deleteOfficer(idOfficer);
 	}

@@ -44,7 +44,6 @@ public class Client {
 	private String adress;
 	@NotNull
 	private String paymentDetails;
-	@NotNull
 	private Long siaBadgeNumber;
 	@NotNull
 	private String bookingDateAndTime;
