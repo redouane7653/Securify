@@ -33,7 +33,7 @@ the app will connect a qualified service provider to a customer
 * Postman
 
 
-## Functionalities
+## Current Functionalities
 ### Register new  Client 
 
 
