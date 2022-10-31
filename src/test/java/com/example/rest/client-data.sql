@@ -1,0 +1,1 @@
+INSERT INTO 'Client'(name,lastName,dateOfBrith,email,phoneNumber, adress, paymentDetails, siaBadgeNumber,bookingDateAndTime) VALUES("Mary","Bond","05/07/1992","Musician@gmail.com",07654373,"London","Visa",111111,"Monday 16 from 07:00 to 19:00");
