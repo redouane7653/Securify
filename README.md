@@ -11,8 +11,8 @@ the app will connect a qualified service provider to a customer
 
 ## App Structure
 
-![structure](https://user-images.githubusercontent.com/95662924/198916853-6f309b4e-39db-4054-babd-fccf777a8728.jpg)
 
+![structure](https://user-images.githubusercontent.com/95662924/198936251-24415f7d-58f3-4e1a-ae79-8f502a6919c3.jpg)
 
 
 ![sqlStructure](https://user-images.githubusercontent.com/95662924/198917158-6660af9d-7174-4985-ac14-2a97d9580888.Jpg)
@@ -89,6 +89,9 @@ the app will connect a qualified service provider to a customer
 
 ## Junit Test
 ![contextLoadsTest](https://user-images.githubusercontent.com/95662924/198916741-80ede47e-f0f1-4fd1-a132-06d91ecc9cb4.Jpg)
+
+
+![integrationTest Jpa](https://user-images.githubusercontent.com/95662924/198936303-b8317aab-6a9a-4770-b1dd-5a4df042e045.JPG)
 
 
 ## What i wish to improve 
