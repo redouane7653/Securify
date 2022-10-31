@@ -6,7 +6,7 @@ the idea behind the application lies in connecting a pool of Customers with a po
 
 ## App Structure
 
-![postmanStructure](https://user-images.githubusercontent.com/95662924/198916576-f4a47430-2d97-45ca-b49c-9bc390f6141d.jpg)
+![structure](https://user-images.githubusercontent.com/95662924/198916853-6f309b4e-39db-4054-babd-fccf777a8728.jpg)
 
 
  The current functionality of the app is an exchange between two Mysql tables: Clients and Security Officers
