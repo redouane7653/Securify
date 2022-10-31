@@ -2,9 +2,12 @@
 
 
 Securify is an Application under progress which will allow the booking of manned security services through  mobile and web, 
-the idea behind the application lies in connecting a pool of Customers with a pool of Security officers, through the exchange of information such as Adresses, Bank details to allow payments  and Dates of availability of service between the Clients and the Officers managed through Securify.
+the idea behind the application lies in connecting a pool of Customers with a pool of Security officers, through the exchange of information such as Adresses, Bank details to allow payments  and Dates of availability of service between the Clients and the Officers managed through Securify to allow the performance of a service.
 
-a client will be able to hire a security officer at an hourly rate calculated by securify 
+"a client will be able to hire a security officer at an hourly rate calculated by securify through his mobile phone and computer online"
+
+the app will connect a qualified service provider to a customer
+
 
 ## App Structure
 
@@ -87,3 +90,7 @@ a client will be able to hire a security officer at an hourly rate calculated by
 ## Junit Test
 ![contextLoadsTest](https://user-images.githubusercontent.com/95662924/198916741-80ede47e-f0f1-4fd1-a132-06d91ecc9cb4.Jpg)
 
+
+## What i wish to improve 
+
+In this project i learnt to Engeneer on JAVA applications that build relational and non relational databases capable of  interacting with eachother in an automated fashion and performing CRUD operations on POSTMAN, what i wish to do in the near future is to go deeper in Integration Testing and further up the application to a more complex phase for future deployment in the market of manned security 
