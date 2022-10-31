@@ -93,4 +93,4 @@ the app will connect a qualified service provider to a customer
 
 ## What i wish to improve 
 
-In this project i learnt to Engeneer on JAVA applications that build relational and non relational databases capable of  interacting with eachother in an automated fashion and performing CRUD operations on POSTMAN, what i wish to do in the near future is to go deeper in Integration Testing and further up the application to a more complex phase for future deployment in the market of manned security 
+In this project i learnt to engineer on JAVA applications that build relational and non relational databases capable of  interacting with eachother in an automated fashion and performing CRUD operations on POSTMAN, what i wish to do in the near future is to go deeper in Integration Testing and further up the application to a more complex phase for future deployment in the market of manned security 
