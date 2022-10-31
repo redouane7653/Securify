@@ -9,6 +9,10 @@ the idea behind the application lies in connecting a pool of Customers with a po
 ![structure](https://user-images.githubusercontent.com/95662924/198916853-6f309b4e-39db-4054-babd-fccf777a8728.jpg)
 
 
+
+![sqlStructure](https://user-images.githubusercontent.com/95662924/198917158-6660af9d-7174-4985-ac14-2a97d9580888.Jpg)
+
+
  The current functionality of the app is an exchange between two Mysql tables: Clients and Security Officers
 
 ## Technology
